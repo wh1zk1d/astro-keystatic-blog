@@ -1,0 +1,6 @@
+headline: Hello from Keystatic! 👋
+subline: >-
+  Keystatic is a new tool that makes Markdown, JSON and YAML content in your
+  codebase editable by humans.
+content:
+  files: []
